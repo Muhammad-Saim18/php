@@ -1,0 +1,17 @@
+*
+{
+	background-color:#42cbf5;
+}
+table
+{
+	margin:100px auto; 
+}
+table,th,tr,td
+{
+	border:2px solid purple;
+	padding:8px 10px;
+}
+h1
+{
+	font-family:sans-serif;
+}
